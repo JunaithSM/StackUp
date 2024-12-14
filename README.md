@@ -1,6 +1,11 @@
 # Stack Up 
 **Stack Up** is a game where you place blocks one on top of another until the block slices down to zero. It is a 2D-rendered 3D game, and I have tried creating it using JavaScript, Python, and C++, applying the same concept in each language.
-
+---
+#### Screen Shot 1
+![image](https://github.com/JunaithSM/StackUp/blob/main/Screenshot%202024-12-14%20213030.png)
+#### Screen Shot 2
+![image](https://github.com/JunaithSM/StackUp/blob/main/Screenshot%202024-12-14%20213130.png)
+---
 ### Clone this project
 ```
 git clone https://github.com/JunaithSM/StackUp.git
