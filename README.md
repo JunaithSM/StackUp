@@ -4,7 +4,7 @@
 #### Screen Shot 1
 ![image](https://github.com/JunaithSM/StackUp/blob/main/Screenshot%202024-12-14%20213030.png)
 #### Screen Shot 2
-![image](https://github.com/JunaithSM/StackUp/blob/main/Screenshot%202024-12-14%20213130.png)
+![image](https://github.com/JunaithSM/StackUp/blob/main/showcase.png)
 ---
 ### Clone this project
 ```
